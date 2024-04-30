@@ -2,8 +2,8 @@
 Anything I think would be useful for learning IT (coding, security, etc.) will be listed below
 
 # Coding
-https://www.codedex.io/home
+Codedex - https://www.codedex.io/home
 
 # Networking
-https://tryhackme.com/dashboard <br /> 
-https://github.com/winterrdog/tryhackme-free-rooms
+TryHackMe - https://tryhackme.com/dashboard <br /> 
+Free rooms for TryHackMe, by winterrdog - https://github.com/winterrdog/tryhackme-free-rooms
