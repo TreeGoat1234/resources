@@ -6,4 +6,4 @@ Codedex - https://www.codedex.io/home
 
 # Networking
 TryHackMe - https://tryhackme.com/dashboard <br /> 
-Free rooms for TryHackMe, by winterrdog - https://github.com/winterrdog/tryhackme-free-rooms
+Free rooms for TryHackMe, repository by winterrdog - https://github.com/winterrdog/tryhackme-free-rooms
