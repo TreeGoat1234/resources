@@ -5,5 +5,5 @@ Anything I think would be useful for learning IT (coding, security, etc.) will b
 https://www.codedex.io/home
 
 # Networking
-https://tryhackme.com/dashboard
+https://tryhackme.com/dashboard <br /> 
 https://github.com/winterrdog/tryhackme-free-rooms
